@@ -47,3 +47,4 @@ e incluye soporte para **preguntas personalizadas en JSON**.
 2. Abrir el proyecto en Unity (versión 2022.3.40f1 o superior).  
 3. Ejecutar la escena principal.  
 
+🔗 Descargar proyecto completo: Google Drive (https://drive.google.com/file/d/1Aq1zrlPHDqSvxjsJ2NgVmtKiEv-h9B-5/view?usp=sharing)
