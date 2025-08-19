@@ -32,13 +32,13 @@ e incluye soporte para **preguntas personalizadas en JSON**.
 ---
 
 ## 📸 Capturas
-*(Agregá tus imágenes en una carpeta `/img` y mostralas así:)*  
+![triv 3](https://github.com/user-attachments/assets/1eace80b-785c-4f29-a5df-3e3978531601)
+![triv 2](https://github.com/user-attachments/assets/81f30d7a-bddb-4e8b-831d-56b8e582ade2)
+![triv](https://github.com/user-attachments/assets/a2a45d2f-9405-44d8-9468-ba7aef32fbe8)
+![triv4](https://github.com/user-attachments/assets/b016ec1f-5092-4536-ae52-00b7b605c371)
+![triv5](https://github.com/user-attachments/assets/b1e6bcde-44a7-4cc9-9499-e514328a7b73)
 
- 
-![Juego en curso](![triv 3](https://github.com/user-attachments/assets/c016f0be-f4a7-44c4-aba9-9342502f21df)
- ![triv](https://github.com/user-attachments/assets/4d2de32e-981a-4ab8-a6cb-5d1fde8edb2a)
- ![triv 2](https://github.com/user-attachments/assets/ef2487b0-0522-49c2-a18e-9a47bf98a513)
-)  
+
 
 ---
 
