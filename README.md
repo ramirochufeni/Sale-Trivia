@@ -44,6 +44,6 @@ e incluye soporte para **preguntas personalizadas en JSON**.
 
 ## ▶️ Cómo jugar
 1. Clonar este repositorio.  
-2. Abrir el proyecto en Unity (versión XX.XX o superior).  
+2. Abrir el proyecto en Unity (versión 2022.3.40f1 o superior).  
 3. Ejecutar la escena principal.  
 
